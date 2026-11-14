@@ -1,0 +1,15 @@
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\bin\Debug\net10.0\Class Hierarchy task.exe
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\bin\Debug\net10.0\Class Hierarchy task.deps.json
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\bin\Debug\net10.0\Class Hierarchy task.runtimeconfig.json
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\bin\Debug\net10.0\Class Hierarchy task.dll
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\bin\Debug\net10.0\Class Hierarchy task.pdb
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\Class Hierarchy task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\Class Hierarchy task.AssemblyInfoInputs.cache
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\Class Hierarchy task.AssemblyInfo.cs
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\Class Hierarchy task.csproj.CoreCompileInputs.cache
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\Class Hierarchy task.sourcelink.json
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\Class Hierarchy task.dll
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\refint\Class Hierarchy task.dll
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\Class Hierarchy task.pdb
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\Class Hierarchy task.genruntimeconfig.cache
+C:\Users\Anas\Home-Task-temp\Class Hierarchy task\obj\Debug\net10.0\ref\Class Hierarchy task.dll
